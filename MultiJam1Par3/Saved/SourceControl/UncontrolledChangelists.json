@@ -1,0 +1,39 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/GitHub Projects/MultiJam1Par3/MultiJam1Par3/Content/Fonts/Titulos/Arthur_Serif.uasset",
+				"D:/GitHub Projects/MultiJam1Par3/MultiJam1Par3/Content/Fonts/Titulos/Arthur_Serif_Font.uasset",
+				"D:/GitHub Projects/MultiJam1Par3/MultiJam1Par3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/6D/03S1D2CMG07XQZGSU7JN1O.uasset",
+				"D:/GitHub Projects/MultiJam1Par3/MultiJam1Par3/Content/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_01.uasset",
+				"D:/GitHub Projects/MultiJam1Par3/MultiJam1Par3/Content/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02.uasset",
+				"D:/GitHub Projects/MultiJam1Par3/MultiJam1Par3/Content/Characters/Mannequins/Meshes/SKM_NoHead.uasset",
+				"D:/GitHub Projects/MultiJam1Par3/MultiJam1Par3/Content/Models/Character/Veiled_Woman2_retopo_sub3_txt.uasset",
+				"D:/GitHub Projects/MultiJam1Par3/MultiJam1Par3/Content/Models/Character/StatueEdited.uasset",
+				"D:/GitHub Projects/MultiJam1Par3/MultiJam1Par3/Content/Fonts/Titulos/cheops_elegant_regular.uasset",
+				"D:/GitHub Projects/MultiJam1Par3/MultiJam1Par3/Content/Fonts/Titulos/cheops_elegant_regular_Font.uasset",
+				"D:/GitHub Projects/MultiJam1Par3/MultiJam1Par3/Content/Fonts/Subtitulos/Student_Art.uasset",
+				"D:/GitHub Projects/MultiJam1Par3/MultiJam1Par3/Content/Fonts/Subtitulos/Student_Art_Font.uasset",
+				"D:/GitHub Projects/MultiJam1Par3/MultiJam1Par3/Content/Fonts/Subtitulos/handwriting-draft_free-version.uasset",
+				"D:/GitHub Projects/MultiJam1Par3/MultiJam1Par3/Content/Fonts/Subtitulos/handwriting-draft_free-version_Font.uasset",
+				"D:/GitHub Projects/MultiJam1Par3/MultiJam1Par3/Content/Fonts/HandwritingBasics-Regular.uasset",
+				"D:/GitHub Projects/MultiJam1Par3/MultiJam1Par3/Content/Fonts/HandwritingBasics-Regular_Font.uasset",
+				"D:/GitHub Projects/MultiJam1Par3/MultiJam1Par3/Content/Models/Character/SKM_QuinnNoHead.uasset",
+				"D:/GitHub Projects/MultiJam1Par3/MultiJam1Par3/Content/Models/Character/MI_Quinn_01.uasset",
+				"D:/GitHub Projects/MultiJam1Par3/MultiJam1Par3/Content/Models/Character/SKM_QuinnNoHead_PhysicsAsset.uasset",
+				"D:/GitHub Projects/MultiJam1Par3/MultiJam1Par3/Content/Models/Character/MI_Quinn_02.uasset",
+				"D:/GitHub Projects/MultiJam1Par3/MultiJam1Par3/Content/Models/Character/SKM_QuinnNoHead_Skeleton.uasset",
+				"D:/GitHub Projects/MultiJam1Par3/MultiJam1Par3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/WM/M6T5YZZYM73RP4HHNYCKRJ.uasset",
+				"D:/GitHub Projects/MultiJam1Par3/MultiJam1Par3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/6M/XR7FJVA1O86SXXOLNERUW3.uasset",
+				"D:/GitHub Projects/MultiJam1Par3/MultiJam1Par3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/GF/BAX0COZPWJFKUWXAV55EYO.uasset",
+				"D:/GitHub Projects/MultiJam1Par3/MultiJam1Par3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/UA/CIQSH09NVUCCYKAN2DGJ80.uasset",
+				"D:/GitHub Projects/MultiJam1Par3/MultiJam1Par3/Content/MSPresets/M_MS_Surface_Material/M_MS_Surface_Material.uasset",
+				"D:/GitHub Projects/MultiJam1Par3/MultiJam1Par3/Content/Megascans/Surfaces/Arabescato_Marble_ufojbixl/MI_Arabescato_Marble_ufojbixl_2K.uasset",
+				"D:/GitHub Projects/MultiJam1Par3/MultiJam1Par3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/2O/41864IOFA1GIFLAJJ5EHPM.uasset"
+			]
+		}
+	]
+}
