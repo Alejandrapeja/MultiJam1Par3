@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Marco/Documents/GitHub/MultiJam1Par3/MultiJam1Par3/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter1MARCO.uasset",
+				"C:/Users/Marco/Documents/GitHub/MultiJam1Par3/MultiJam1Par3/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameModMarco.uasset",
+				"C:/Users/Marco/Documents/GitHub/MultiJam1Par3/MultiJam1Par3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/S1/DXUWD12MD3HRWVVXX076BY.uasset",
+				"C:/Users/Marco/Documents/GitHub/MultiJam1Par3/MultiJam1Par3/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Users/Marco/Documents/GitHub/MultiJam1Par3/MultiJam1Par3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R1/TS5OQ5CRUWFZYL1ZQ7I416.uasset"
+			]
+		}
+	]
+}
