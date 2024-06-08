@@ -8,10 +8,14 @@
 				"E:/GitHub repositorios/MultiJam1Par3/MultiJam1Par3/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"E:/GitHub repositorios/MultiJam1Par3/MultiJam1Par3/Content/StarterContent/Materials/M_Ground_Gravel1.uasset",
 				"E:/GitHub repositorios/MultiJam1Par3/MultiJam1Par3/Content/Gothic_Cathedral/Maps/Gothic_Cathedral.umap",
-				"E:/GitHub repositorios/MultiJam1Par3/MultiJam1Par3/Content/Gothic_Cathedral/Ethan/BP_Collision.uasset",
 				"E:/GitHub repositorios/MultiJam1Par3/MultiJam1Par3/Content/Gothic_Cathedral/Meshes/cathedral/SM_Wall_foundation.uasset",
 				"E:/GitHub repositorios/MultiJam1Par3/MultiJam1Par3/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"E:/GitHub repositorios/MultiJam1Par3/MultiJam1Par3/Content/Gothic_Cathedral/Meshes/cathedral/SM_Gothic_window_long.uasset"
+				"E:/GitHub repositorios/MultiJam1Par3/MultiJam1Par3/Content/Gothic_Cathedral/Meshes/cathedral/SM_Gothic_window_long.uasset",
+				"E:/GitHub repositorios/MultiJam1Par3/MultiJam1Par3/Content/MI_Cathedral_Wall1.uasset",
+				"E:/GitHub repositorios/MultiJam1Par3/MultiJam1Par3/Content/Gothic_Cathedral/Meshes/cathedral/SM_Cathedral_Wall1.uasset",
+				"E:/GitHub repositorios/MultiJam1Par3/MultiJam1Par3/Content/Gothic_Cathedral/Materials/M_Custom_Tileable_Materials_Master.uasset",
+				"E:/GitHub repositorios/MultiJam1Par3/MultiJam1Par3/Content/M_Custom_Tileable_Materials_Master1.uasset",
+				"E:/GitHub repositorios/MultiJam1Par3/MultiJam1Par3/Content/Gothic_Cathedral/Ethan/BP_Collision.uasset"
 			]
 		}
 	]
