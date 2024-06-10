@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/GitHub Projects/MultiJam1Par3/MultiJam1Par3/Content/Gothic_Cathedral/Maps/Gothic_Cathedral.umap",
+				"D:/GitHub Projects/MultiJam1Par3/MultiJam1Par3/Content/Cinematics/Sequences/MasterSequence/MasterSequenceRoot.uasset",
+				"D:/GitHub Projects/MultiJam1Par3/MultiJam1Par3/Content/Cinematics/Sequences/MasterSequence/shot/shot0010/shot0010_01.uasset",
+				"D:/GitHub Projects/MultiJam1Par3/MultiJam1Par3/Content/Cinematics/Sequences/MasterSequence/shot/shot0020/shot0020_01.uasset",
 				"E:/GitHub repositorios/MultiJam1Par3/MultiJam1Par3/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"E:/GitHub repositorios/MultiJam1Par3/MultiJam1Par3/Content/StarterContent/Materials/M_Ground_Gravel1.uasset",
 				"E:/GitHub repositorios/MultiJam1Par3/MultiJam1Par3/Content/Gothic_Cathedral/Maps/Gothic_Cathedral.umap",
