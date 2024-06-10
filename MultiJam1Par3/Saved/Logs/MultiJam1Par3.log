@@ -2444,3 +2444,1107 @@ Would you like to regenerate the Skeleton from this mesh?
 [2024.06.10-17.55.54:002][993]LogSlate: Window 'Project Settings' being destroyed
 [2024.06.10-17.55.54:009][993]LogSlate: Window 'Project Settings' being destroyed
 [2024.06.10-17.55.56:161][109]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.06.10-17.57.01:259][800]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-17.57.01:260][800]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-17.57.01:260][800]LogViewport: Scene viewport resized to 943x867, mode Windowed.
+[2024.06.10-17.57.05:123][ 23]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.10-17.57.05:179][ 25]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.10-17.57.10:451][327]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-17.57.10:452][327]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-17.57.10:456][327]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-17.57.10:456][327]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-17.57.10:457][327]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-17.57.10:459][327]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-17.57.10:485][327]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-17.57.10:487][327]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-17.59.42:729][790]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.06.10-17.59.42:732][790]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.023
+[2024.06.10-17.59.42:732][790]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Marco/BP_Enemy/BP_Enemy_Ciego] ([2] browsable assets)...
+[2024.06.10-17.59.42:733][790]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.10-17.59.42:749][790]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-17.59.42:787][790]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/_Marco/BP_Enemy/BP_Enemy_Ciego.BP_Enemy_Ciego_C]
+[2024.06.10-17.59.42:800][790]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Marco/BP_Enemy/BP_Enemy_Ciego.BP_Enemy_Ciego]
+[2024.06.10-17.59.42:800][790]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Marco/BP_Enemy/BP_Enemy_Ciego]
+[2024.06.10-17.59.42:813][790]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Marco/BP_Enemy/BP_Enemy_Ciego_Auto2
+[2024.06.10-17.59.42:814][790]LogSavePackage: Moving '../../../../../../GitHub Projects/MultiJam1Par3/MultiJam1Par3/Saved/BP_Enemy_Ciego_Auto27F7AE0284DD745C65DB5FAA7EA0EF89B.tmp' to '../../../../../../GitHub Projects/MultiJam1Par3/MultiJam1Par3/Saved/Autosaves/Game/_Marco/BP_Enemy/BP_Enemy_Ciego_Auto2.uasset'
+[2024.06.10-17.59.42:815][790]LogFileHelpers: Auto-saving content packages took 0.084
+[2024.06.10-18.03.29:645][535]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.29:680][536]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.29:696][537]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.29:712][538]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.29:730][539]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.29:746][540]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.29:765][541]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.29:780][542]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.29:801][543]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.29:821][544]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.29:838][545]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.29:854][546]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.29:870][547]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.29:887][548]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.29:903][549]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.29:920][550]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.29:937][551]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.29:953][552]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.29:976][553]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.29:996][554]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.30:011][555]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.30:029][556]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.30:045][557]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.30:061][558]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.30:078][559]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.30:095][560]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.30:112][561]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.30:128][562]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.30:143][563]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.30:160][564]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.30:177][565]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.30:194][566]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.30:211][567]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.30:228][568]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.30:243][569]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.30:261][570]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.30:277][571]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.30:295][572]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.30:310][573]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.30:328][574]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.30:343][575]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.30:360][576]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.30:377][577]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.30:394][578]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.30:411][579]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.30:427][580]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.30:445][581]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.30:460][582]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.30:478][583]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.30:493][584]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.30:511][585]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.30:527][586]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.30:544][587]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.30:560][588]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.30:577][589]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.30:595][590]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.30:611][591]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.30:627][592]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.30:643][593]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.30:660][594]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.30:676][595]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.30:693][596]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.30:710][597]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.30:728][598]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.30:744][599]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.30:761][600]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.30:777][601]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.30:793][602]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.30:810][603]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.30:827][604]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.30:844][605]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.30:860][606]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.30:877][607]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.30:893][608]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.30:910][609]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.30:927][610]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.30:943][611]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.30:960][612]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.30:976][613]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.30:994][614]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.31:010][615]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.31:027][616]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.31:044][617]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.31:060][618]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.31:077][619]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.31:094][620]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.31:110][621]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.31:127][622]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.32:889][727]BlueprintLog: New page: Compile BP_Enemy_Ciego
+[2024.06.10-18.03.32:935][727]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.32:936][727]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.32:936][727]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.32:962][727]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.06.10-18.03.32:965][727]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.32:965][727]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.32:965][727]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.32:966][727]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.32:966][727]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.32:966][727]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.32:967][727]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_1, they are designed to work with AAIControllers!
+[2024.06.10-18.03.32:977][727]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.32:978][727]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.32:978][727]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.32:978][727]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.32:978][727]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_1, they are designed to work with AAIControllers!
+[2024.06.10-18.03.32:978][727]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_1, they are designed to work with AAIControllers!
+[2024.06.10-18.03.33:038][727]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.33:038][727]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.03.33:389][745]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.10-18.03.33:468][745]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Marco/BP_Enemy/BP_Enemy_Ciego" FILE="../../../../../../GitHub Projects/MultiJam1Par3/MultiJam1Par3/Content/_Marco/BP_Enemy/BP_Enemy_Ciego.uasset" SILENT=true
+[2024.06.10-18.03.33:480][745]LogSavePackage: Moving output files for package: /Game/_Marco/BP_Enemy/BP_Enemy_Ciego
+[2024.06.10-18.03.33:481][745]LogSavePackage: Moving '../../../../../../GitHub Projects/MultiJam1Par3/MultiJam1Par3/Saved/BP_Enemy_Ciego219AC6574188CB1ACF20958706D998A0.tmp' to '../../../../../../GitHub Projects/MultiJam1Par3/MultiJam1Par3/Content/_Marco/BP_Enemy/BP_Enemy_Ciego.uasset'
+[2024.06.10-18.03.33:490][745]LogFileHelpers: InternalPromptForCheckoutAndSave took 101 ms (total: 2.29 sec)
+[2024.06.10-18.03.33:493][745]AssetCheck: New page: Asset Save: BP_Enemy_Ciego
+[2024.06.10-18.03.33:495][745]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_Marco/BP_Enemy/BP_Enemy_Ciego.BP_Enemy_Ciego
+[2024.06.10-18.04.29:729][984]LogSlate: Window 'Pick Skeleton' being destroyed
+[2024.06.10-18.04.29:741][984]LogContentBrowser: Deferred new asset file creation: NewBlendSpace1D
+[2024.06.10-18.04.29:748][984]LogContentBrowser: Creating deferred item: NewBlendSpace1D
+[2024.06.10-18.04.29:770][985]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlendSpace1D).
+[2024.06.10-18.04.38:676][519]LogContentBrowser: Attempting asset rename: NewBlendSpace1D -> BS_EnemyWalk
+[2024.06.10-18.04.38:689][519]LogContentBrowser: End creating deferred item NewBlendSpace1D
+[2024.06.10-18.04.40:463][621]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace1D /Game/MixamoAnimations/Enemy/BS_EnemyWalk.BS_EnemyWalk
+[2024.06.10-18.04.40:543][621]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2024.06.10-18.04.40:543][621]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.10-18.05.02:456][916]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/MixamoAnimations/Enemy/EnemyIdle_UE.EnemyIdle_UE
+[2024.06.10-18.05.02:799][929]LogAnimationCompression: Display: Storing compressed animation data for /Game/MixamoAnimations/Enemy/EnemyIdle_UE.EnemyIdle_UE, at AnimationSequence/6fdddec756d2b9a992f9d12dbc43931ebb64dffe
+[2024.06.10-18.05.06:479][127]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/MixamoAnimations/Enemy/EnemyWalking_UE.EnemyWalking_UE
+[2024.06.10-18.05.06:531][127]LogAnimationCompression: Display: Storing compressed animation data for /Game/MixamoAnimations/Enemy/EnemyWalking_UE.EnemyWalking_UE, at AnimationSequence/dd28b56bbee3fc2289f0a1e27c693215588762a8
+[2024.06.10-18.05.12:190][444]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/MixamoAnimations/Enemy/EnemyRunning_UE.EnemyRunning_UE
+[2024.06.10-18.05.12:212][444]LogAnimationCompression: Display: Storing compressed animation data for /Game/MixamoAnimations/Enemy/EnemyRunning_UE.EnemyRunning_UE, at AnimationSequence/d29ba8e65c22654d178d6ef5e776ffe94cd06aa9
+[2024.06.10-18.05.27:815][335]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/MixamoAnimations/Enemy/EnemyRunning_UE.EnemyRunning_UE
+[2024.06.10-18.05.27:873][335]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.10-18.05.27:873][335]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.10-18.05.32:805][604]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.10-18.05.32:917][604]LogSavePackage: Moving output files for package: /Game/MixamoAnimations/Enemy/EnemyRunning_UE
+[2024.06.10-18.05.32:918][604]LogSavePackage: Moving '../../../../../../GitHub Projects/MultiJam1Par3/MultiJam1Par3/Saved/EnemyRunning_UEA6B1A06D4773944638DAA09A3E19F2C0.tmp' to '../../../../../../GitHub Projects/MultiJam1Par3/MultiJam1Par3/Content/MixamoAnimations/Enemy/EnemyRunning_UE.uasset'
+[2024.06.10-18.05.32:929][604]LogFileHelpers: InternalPromptForCheckoutAndSave took 123 ms (total: 2.41 sec)
+[2024.06.10-18.05.32:932][604]AssetCheck: New page: Asset Save: EnemyRunning_UE
+[2024.06.10-18.05.32:932][604]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/MixamoAnimations/Enemy/EnemyRunning_UE.EnemyRunning_UE
+[2024.06.10-18.05.34:994][720]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/MixamoAnimations/Enemy/EnemyWalking_UE.EnemyWalking_UE
+[2024.06.10-18.05.35:042][720]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.10-18.05.35:043][720]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.10-18.05.35:096][720]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2024.06.10-18.05.35:096][720]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.10-18.05.39:099][946]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.10-18.05.39:212][946]LogSavePackage: Moving output files for package: /Game/MixamoAnimations/Enemy/EnemyWalking_UE
+[2024.06.10-18.05.39:213][946]LogSavePackage: Moving '../../../../../../GitHub Projects/MultiJam1Par3/MultiJam1Par3/Saved/EnemyWalking_UE0C083912412BEEF66754CBAA3FDF0EB2.tmp' to '../../../../../../GitHub Projects/MultiJam1Par3/MultiJam1Par3/Content/MixamoAnimations/Enemy/EnemyWalking_UE.uasset'
+[2024.06.10-18.05.39:224][946]LogFileHelpers: InternalPromptForCheckoutAndSave took 125 ms (total: 2.53 sec)
+[2024.06.10-18.05.39:227][946]AssetCheck: New page: Asset Save: EnemyWalking_UE
+[2024.06.10-18.05.39:227][946]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/MixamoAnimations/Enemy/EnemyWalking_UE.EnemyWalking_UE
+[2024.06.10-18.05.41:259][ 62]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2024.06.10-18.05.41:260][ 62]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.10-18.05.41:269][ 62]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2024.06.10-18.05.41:269][ 62]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.10-18.05.41:320][ 62]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2024.06.10-18.05.41:320][ 62]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.10-18.05.50:954][608]LogShaderCompilers: Display: ================================================
+[2024.06.10-18.05.50:954][608]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.06.10-18.05.50:954][608]LogShaderCompilers: Display: Total job queries 390, among them cache hits 322 (82.56%)
+[2024.06.10-18.05.50:954][608]LogShaderCompilers: Display: Tracking 68 distinct input hashes that result in 31 distinct outputs (45.59%)
+[2024.06.10-18.05.50:954][608]LogShaderCompilers: Display: RAM used: 1,63 MiB of 1,60 GiB budget. Usage: 0.10%
+[2024.06.10-18.05.50:954][608]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.06.10-18.05.50:954][608]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.06.10-18.05.50:954][608]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.06.10-18.05.50:954][608]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.06.10-18.05.50:954][608]LogShaderCompilers: Display: ================================================
+[2024.06.10-18.05.50:983][609]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.10-18.05.53:389][750]BlueprintLog: New page: Compile BP_ThirdPersonCharacter1MARCO
+[2024.06.10-18.05.53:503][750]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.06.10-18.05.53:510][750]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.05.53:510][750]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.05.53:511][750]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.05.53:511][750]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.05.53:511][750]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_1, they are designed to work with AAIControllers!
+[2024.06.10-18.05.53:511][750]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_1, they are designed to work with AAIControllers!
+[2024.06.10-18.05.53:570][750]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.05.53:570][750]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.05.53:571][750]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.05.53:571][750]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.05.53:571][750]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_1, they are designed to work with AAIControllers!
+[2024.06.10-18.05.53:571][750]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_1, they are designed to work with AAIControllers!
+[2024.06.10-18.05.54:142][776]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.10-18.05.54:267][776]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter1MARCO
+[2024.06.10-18.05.54:268][776]LogSavePackage: Moving '../../../../../../GitHub Projects/MultiJam1Par3/MultiJam1Par3/Saved/BP_ThirdPersonCharacter1MARCOE77BD5554D55C54DBDAE6D9FD03DF26F.tmp' to '../../../../../../GitHub Projects/MultiJam1Par3/MultiJam1Par3/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter1MARCO.uasset'
+[2024.06.10-18.05.54:280][776]LogFileHelpers: InternalPromptForCheckoutAndSave took 138 ms (total: 2.67 sec)
+[2024.06.10-18.05.54:283][776]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter1MARCO
+[2024.06.10-18.05.54:283][776]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter1MARCO.BP_ThirdPersonCharacter1MARCO
+[2024.06.10-18.06.26:265][613]BlueprintLog: New page: Compile BP_ThirdPersonCharacter1MARCO
+[2024.06.10-18.06.26:344][613]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.06.10-18.06.26:348][613]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.06.26:348][613]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.06.26:349][613]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.06.26:349][613]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.06.26:349][613]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_1, they are designed to work with AAIControllers!
+[2024.06.10-18.06.26:349][613]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_1, they are designed to work with AAIControllers!
+[2024.06.10-18.06.26:413][613]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.06.26:414][613]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.06.26:414][613]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.06.26:414][613]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.06.26:414][613]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_1, they are designed to work with AAIControllers!
+[2024.06.10-18.06.26:415][613]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_1, they are designed to work with AAIControllers!
+[2024.06.10-18.06.26:923][632]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.10-18.06.27:055][632]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter1MARCO
+[2024.06.10-18.06.27:057][632]LogSavePackage: Moving '../../../../../../GitHub Projects/MultiJam1Par3/MultiJam1Par3/Saved/BP_ThirdPersonCharacter1MARCO49951A4A43E48E4AC4E6FAAD5A8DBD1F.tmp' to '../../../../../../GitHub Projects/MultiJam1Par3/MultiJam1Par3/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter1MARCO.uasset'
+[2024.06.10-18.06.27:067][632]LogFileHelpers: InternalPromptForCheckoutAndSave took 144 ms (total: 2.82 sec)
+[2024.06.10-18.06.27:070][632]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter1MARCO
+[2024.06.10-18.06.27:070][632]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter1MARCO.BP_ThirdPersonCharacter1MARCO
+[2024.06.10-18.06.41:318][469]Cmd: DELETE
+[2024.06.10-18.06.41:318][469]Cmd: ACTOR DELETE
+[2024.06.10-18.06.41:321][469]LogEditorActor: Deleted Actor: BP_EnemyStatue_Movement4_C
+[2024.06.10-18.06.41:323][469]LogEditorActor: Deleted Actor: BP_EnemyStatue_Movement3_C
+[2024.06.10-18.06.41:345][469]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2024.06.10-18.06.41:350][469]LogEditorActor: Deleted 2 Actors (0.031 secs)
+[2024.06.10-18.06.52:946][129]Cmd: DELETE
+[2024.06.10-18.06.52:946][129]Cmd: ACTOR DELETE
+[2024.06.10-18.06.52:950][129]LogEditorActor: Deleted Actor: BP_EnemyStatue_Movement2_C
+[2024.06.10-18.06.52:953][129]LogEditorActor: Deleted Actor: BP_EnemyStatue_Movement5_C
+[2024.06.10-18.06.52:977][129]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.06.10-18.06.52:980][129]LogEditorActor: Deleted 2 Actors (0.034 secs)
+[2024.06.10-18.06.54:842][235]Cmd: DELETE
+[2024.06.10-18.06.54:842][235]Cmd: ACTOR DELETE
+[2024.06.10-18.06.54:844][235]LogEditorActor: Deleted Actor: BP_EnemyStatue_Movement1Pablito_C
+[2024.06.10-18.06.54:861][235]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.06.10-18.06.54:864][235]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2024.06.10-18.07.01:557][636]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.06.10-18.07.01:566][636]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.06.10-18.07.01:566][636]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.06.10-18.07.01:568][636]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 7 ms)
+[2024.06.10-18.07.01:568][636]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.06.10-18.07.01:569][636]PIE: New page: PIE session: ThirdPersonMap (10 jun. 2024 7:07:01)
+[2024.06.10-18.07.01:569][636]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.06.10-18.07.01:573][636]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005210s)
+[2024.06.10-18.07.01:573][636]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.005243s)
+[2024.06.10-18.07.01:593][636]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2024.06.10-18.07.01:596][636]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.10-18.07.01:596][636]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.10-18.07.01:596][636]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.06.10-18.07.01:597][636]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.06.10-18.07.01:597][636]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.06.10-18.07.01:597][636]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.06.10-18.07.01:597][636]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.06.10-18.07.01:601][636]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.06.10-18.07.01:601][636]LogWorldPartition: Display: WorldPartition initialize took 3 ms (total: 419 ms)
+[2024.06.10-18.07.01:601][636]LogPlayLevel: PIE: World Init took: (0.005425s)
+[2024.06.10-18.07.01:601][636]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.06.10-18.07.01:601][636]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.10-18.07.01:601][636]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.10-18.07.01:601][636]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.10-18.07.01:601][636]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.10-18.07.01:601][636]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.06.10-18.07.01:601][636]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.10-18.07.01:601][636]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.06.10-18.07.01:601][636]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.10-18.07.01:602][636]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.10-18.07.01:602][636]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.10-18.07.01:602][636]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.10-18.07.01:603][636]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.06.10-18.07.01:628][636]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.06.10-18.07.01:629][636]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.10-18.07.01:629][636]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.10-18.07.01:629][636]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.10-18.07.01:630][636]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.06.10-18.07.01:630][636]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.06.10-18.07.01:631][636]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.06.10-18.07.01:632][636]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.06.10-18.07.01:632][636]LogInit: FAudioDevice initialized with ID 5.
+[2024.06.10-18.07.01:632][636]LogAudio: Display: Audio Device (ID: 5) registered with world 'ThirdPersonMap'.
+[2024.06.10-18.07.01:632][636]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.06.10-18.07.01:634][636]LogLoad: Game class is 'BP_ThirdPersonGameModMarco_C'
+[2024.06.10-18.07.01:637][636]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_UAID_8C8CAAC5467DC7FD01_1105612352, they are designed to work with AAIControllers!
+[2024.06.10-18.07.01:637][636]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.06.10-12.07.01
+[2024.06.10-18.07.01:637][636]LogWorld: Bringing up level for play took: 0.003046
+[2024.06.10-18.07.01:640][636]LogOnline: OSS: Created online subsystem instance for: :Context_52
+[2024.06.10-18.07.01:644][636]PIE: Server logged in
+[2024.06.10-18.07.01:646][636]PIE: Play in editor total start time 0,079 seconds.
+[2024.06.10-18.07.14:005][371]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.10-18.07.14:006][371]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.06.10-18.07.14:006][371]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.06.10-18.07.14:006][371]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.10-18.07.14:006][371]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.06.10-18.07.14:010][371]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.10-18.07.14:015][371]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.10-18.07.14:031][371]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.10-18.07.14:031][371]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.06.10-18.07.14:031][371]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.06.10-18.07.14:033][371]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.06.10-18.07.14:037][371]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.10-18.07.14:041][371]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.06.10-18.07.14:099][373]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2024.06.10-18.08.30:632][874]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.06.10-18.08.30:640][874]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.06.10-18.08.30:640][874]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.06.10-18.08.30:642][874]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 9 ms)
+[2024.06.10-18.08.30:648][874]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.06.10-18.08.30:648][874]PIE: New page: PIE session: ThirdPersonMap (10 jun. 2024 7:08:30)
+[2024.06.10-18.08.30:648][874]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.06.10-18.08.30:653][874]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005358s)
+[2024.06.10-18.08.30:653][874]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.005387s)
+[2024.06.10-18.08.30:673][874]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2024.06.10-18.08.30:676][874]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.10-18.08.30:676][874]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.10-18.08.30:677][874]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.06.10-18.08.30:677][874]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.06.10-18.08.30:677][874]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.06.10-18.08.30:677][874]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.06.10-18.08.30:677][874]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.06.10-18.08.30:679][874]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.06.10-18.08.30:679][874]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 420 ms)
+[2024.06.10-18.08.30:679][874]LogPlayLevel: PIE: World Init took: (0.002514s)
+[2024.06.10-18.08.30:679][874]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.06.10-18.08.30:679][874]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.10-18.08.30:679][874]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.10-18.08.30:679][874]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.10-18.08.30:679][874]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.10-18.08.30:679][874]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.06.10-18.08.30:679][874]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.10-18.08.30:679][874]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.06.10-18.08.30:679][874]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.10-18.08.30:679][874]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.10-18.08.30:679][874]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.10-18.08.30:679][874]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.10-18.08.30:681][874]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.06.10-18.08.30:698][874]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.06.10-18.08.30:698][874]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.10-18.08.30:698][874]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.10-18.08.30:698][874]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.10-18.08.30:699][874]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.06.10-18.08.30:699][874]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2024.06.10-18.08.30:701][874]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.06.10-18.08.30:701][874]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.06.10-18.08.30:701][874]LogInit: FAudioDevice initialized with ID 6.
+[2024.06.10-18.08.30:701][874]LogAudio: Display: Audio Device (ID: 6) registered with world 'ThirdPersonMap'.
+[2024.06.10-18.08.30:701][874]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2024.06.10-18.08.30:704][874]LogLoad: Game class is 'BP_ThirdPersonGameModMarco_C'
+[2024.06.10-18.08.30:706][874]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_UAID_8C8CAAC5467DC7FD01_1105612352, they are designed to work with AAIControllers!
+[2024.06.10-18.08.30:706][874]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.06.10-12.08.30
+[2024.06.10-18.08.30:707][874]LogWorld: Bringing up level for play took: 0.003161
+[2024.06.10-18.08.30:709][874]LogOnline: OSS: Created online subsystem instance for: :Context_53
+[2024.06.10-18.08.30:713][874]PIE: Server logged in
+[2024.06.10-18.08.30:715][874]PIE: Play in editor total start time 0,074 seconds.
+[2024.06.10-18.08.42:366][566]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.10-18.08.42:366][566]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.06.10-18.08.42:366][566]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.06.10-18.08.42:367][566]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.10-18.08.42:367][566]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.06.10-18.08.42:372][566]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.10-18.08.42:377][566]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.10-18.08.42:392][566]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.10-18.08.42:393][566]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2024.06.10-18.08.42:393][566]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.06.10-18.08.42:395][566]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.06.10-18.08.42:399][566]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.10-18.08.42:402][566]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.06.10-18.08.42:535][567]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2024.06.10-18.09.01:247][644]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.06.10-18.09.01:256][644]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.06.10-18.09.01:256][644]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.06.10-18.09.01:258][644]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2 ms (total: 11 ms)
+[2024.06.10-18.09.01:264][644]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.06.10-18.09.01:264][644]PIE: New page: PIE session: ThirdPersonMap (10 jun. 2024 7:09:01)
+[2024.06.10-18.09.01:285][644]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.06.10-18.09.01:290][644]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005227s)
+[2024.06.10-18.09.01:290][644]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.005265s)
+[2024.06.10-18.09.01:310][644]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.06.10-18.09.01:313][644]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.10-18.09.01:313][644]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.10-18.09.01:313][644]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.06.10-18.09.01:313][644]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.06.10-18.09.01:313][644]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.06.10-18.09.01:313][644]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.06.10-18.09.01:313][644]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.06.10-18.09.01:315][644]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.06.10-18.09.01:315][644]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 421 ms)
+[2024.06.10-18.09.01:315][644]LogPlayLevel: PIE: World Init took: (0.002385s)
+[2024.06.10-18.09.01:315][644]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.06.10-18.09.01:315][644]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.10-18.09.01:315][644]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.10-18.09.01:315][644]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.10-18.09.01:315][644]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.10-18.09.01:315][644]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.06.10-18.09.01:315][644]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.10-18.09.01:315][644]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.06.10-18.09.01:315][644]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.10-18.09.01:315][644]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.10-18.09.01:315][644]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.10-18.09.01:315][644]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.10-18.09.01:317][644]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.06.10-18.09.01:334][644]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.06.10-18.09.01:336][644]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.10-18.09.01:336][644]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.10-18.09.01:336][644]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.10-18.09.01:336][644]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2024.06.10-18.09.01:336][644]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2024.06.10-18.09.01:338][644]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.06.10-18.09.01:338][644]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2024.06.10-18.09.01:338][644]LogInit: FAudioDevice initialized with ID 7.
+[2024.06.10-18.09.01:338][644]LogAudio: Display: Audio Device (ID: 7) registered with world 'ThirdPersonMap'.
+[2024.06.10-18.09.01:338][644]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2024.06.10-18.09.01:341][644]LogLoad: Game class is 'BP_ThirdPersonGameModMarco_C'
+[2024.06.10-18.09.01:343][644]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_UAID_8C8CAAC5467DC7FD01_1105612352, they are designed to work with AAIControllers!
+[2024.06.10-18.09.01:343][644]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.06.10-12.09.01
+[2024.06.10-18.09.01:344][644]LogWorld: Bringing up level for play took: 0.002835
+[2024.06.10-18.09.01:346][644]LogOnline: OSS: Created online subsystem instance for: :Context_54
+[2024.06.10-18.09.01:350][644]PIE: Server logged in
+[2024.06.10-18.09.01:351][644]PIE: Play in editor total start time 0,095 seconds.
+[2024.06.10-18.09.12:415][304]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.10-18.09.12:415][304]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.06.10-18.09.12:415][304]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.06.10-18.09.12:417][304]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.10-18.09.12:417][304]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.06.10-18.09.12:423][304]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.10-18.09.12:428][304]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.10-18.09.12:446][304]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.10-18.09.12:446][304]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2024.06.10-18.09.12:446][304]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.06.10-18.09.12:448][304]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.06.10-18.09.12:452][304]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.10-18.09.12:455][304]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2024.06.10-18.09.12:588][305]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2024.06.10-18.10.05:237][ 20]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Marco/BP_Enemy/BP_EnemyStatue_Movement2.BP_EnemyStatue_Movement2_C
+[2024.06.10-18.10.05:237][ 20]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Marco/BP_Enemy/BP_EnemyStatue_Movement2.BP_EnemyStatue_Movement2_C
+[2024.06.10-18.10.05:239][ 20]LogActorFactory: Actor Factory spawned Blueprint /Game/_Marco/BP_Enemy/BP_EnemyStatue_Movement2.BP_EnemyStatue_Movement2 as actor: BP_EnemyStatue_Movement2_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_EnemyStatue_Movement2_C_0
+[2024.06.10-18.10.05:239][ 20]LogActorFactory: Actor Factory spawned Blueprint /Game/_Marco/BP_Enemy/BP_EnemyStatue_Movement2.BP_EnemyStatue_Movement2 as actor: BP_EnemyStatue_Movement2_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_EnemyStatue_Movement2_C_0
+[2024.06.10-18.10.05:248][ 20]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.06.10-18.10.05:826][ 53]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Marco/BP_Enemy/BP_EnemyStatue_Movement2.BP_EnemyStatue_Movement2_C
+[2024.06.10-18.10.05:826][ 53]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Marco/BP_Enemy/BP_EnemyStatue_Movement2.BP_EnemyStatue_Movement2_C
+[2024.06.10-18.10.05:832][ 53]LogActorFactory: Actor Factory spawned Blueprint /Game/_Marco/BP_Enemy/BP_EnemyStatue_Movement2.BP_EnemyStatue_Movement2 as actor: BP_EnemyStatue_Movement2_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_EnemyStatue_Movement2_C_UAID_7CD30A80DBC8FDFD01_1168252855
+[2024.06.10-18.10.05:833][ 53]LogActorFactory: Actor Factory spawned Blueprint /Game/_Marco/BP_Enemy/BP_EnemyStatue_Movement2.BP_EnemyStatue_Movement2 as actor: BP_EnemyStatue_Movement2_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_EnemyStatue_Movement2_C_UAID_7CD30A80DBC8FDFD01_1168252855
+[2024.06.10-18.10.09:720][278]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_Marco/BP_Enemy/BP_EnemyStatue_Movement2.BP_EnemyStatue_Movement2
+[2024.06.10-18.10.09:720][278]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.10-18.10.09:720][278]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.10-18.10.13:307][465]BlueprintLog: New page: Compile BP_EnemyStatue_Movement2
+[2024.06.10-18.10.13:487][465]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.06.10-18.10.14:088][478]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.10-18.10.14:188][478]LogSavePackage: Moving output files for package: /Game/_Marco/BP_Enemy/BP_EnemyStatue_Movement2
+[2024.06.10-18.10.14:189][478]LogSavePackage: Moving '../../../../../../GitHub Projects/MultiJam1Par3/MultiJam1Par3/Saved/BP_EnemyStatue_Movement2BDE03EFF46654BB2779AEBB62A863DCB.tmp' to '../../../../../../GitHub Projects/MultiJam1Par3/MultiJam1Par3/Content/_Marco/BP_Enemy/BP_EnemyStatue_Movement2.uasset'
+[2024.06.10-18.10.14:200][478]LogFileHelpers: InternalPromptForCheckoutAndSave took 112 ms (total: 2.93 sec)
+[2024.06.10-18.10.14:202][478]AssetCheck: New page: Asset Save: BP_EnemyStatue_Movement2
+[2024.06.10-18.10.14:204][478]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_Marco/BP_Enemy/BP_EnemyStatue_Movement2.BP_EnemyStatue_Movement2
+[2024.06.10-18.10.15:334][544]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.06.10-18.10.15:342][544]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.06.10-18.10.15:342][544]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.06.10-18.10.15:345][544]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2 ms (total: 13 ms)
+[2024.06.10-18.10.15:345][544]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.06.10-18.10.15:345][544]PIE: New page: PIE session: ThirdPersonMap (10 jun. 2024 7:10:15)
+[2024.06.10-18.10.15:345][544]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.06.10-18.10.15:350][544]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005300s)
+[2024.06.10-18.10.15:350][544]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.005327s)
+[2024.06.10-18.10.15:369][544]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.06.10-18.10.15:373][544]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.10-18.10.15:373][544]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.10-18.10.15:373][544]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.06.10-18.10.15:373][544]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.06.10-18.10.15:373][544]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.06.10-18.10.15:373][544]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.06.10-18.10.15:373][544]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.06.10-18.10.15:374][544]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.06.10-18.10.15:374][544]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 423 ms)
+[2024.06.10-18.10.15:374][544]LogPlayLevel: PIE: World Init took: (0.002506s)
+[2024.06.10-18.10.15:374][544]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.06.10-18.10.15:374][544]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.10-18.10.15:374][544]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.10-18.10.15:375][544]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.10-18.10.15:375][544]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.10-18.10.15:375][544]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.06.10-18.10.15:375][544]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.10-18.10.15:375][544]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.06.10-18.10.15:375][544]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.10-18.10.15:375][544]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.10-18.10.15:375][544]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.10-18.10.15:375][544]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.10-18.10.15:377][544]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.06.10-18.10.15:395][544]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.06.10-18.10.15:395][544]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.10-18.10.15:395][544]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.10-18.10.15:395][544]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.10-18.10.15:395][544]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2024.06.10-18.10.15:395][544]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2024.06.10-18.10.15:398][544]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2024.06.10-18.10.15:398][544]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2024.06.10-18.10.15:398][544]LogInit: FAudioDevice initialized with ID 8.
+[2024.06.10-18.10.15:398][544]LogAudio: Display: Audio Device (ID: 8) registered with world 'ThirdPersonMap'.
+[2024.06.10-18.10.15:398][544]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2024.06.10-18.10.15:400][544]LogLoad: Game class is 'BP_ThirdPersonGameModMarco_C'
+[2024.06.10-18.10.15:403][544]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_UAID_8C8CAAC5467DC7FD01_1105612352, they are designed to work with AAIControllers!
+[2024.06.10-18.10.15:403][544]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.06.10-12.10.15
+[2024.06.10-18.10.15:404][544]LogWorld: Bringing up level for play took: 0.003205
+[2024.06.10-18.10.15:407][544]LogOnline: OSS: Created online subsystem instance for: :Context_56
+[2024.06.10-18.10.15:411][544]PIE: Server logged in
+[2024.06.10-18.10.15:412][544]PIE: Play in editor total start time 0,069 seconds.
+[2024.06.10-18.11.27:595][862]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.10-18.11.27:595][862]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.06.10-18.11.27:595][862]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.06.10-18.11.27:596][862]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.10-18.11.27:596][862]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.06.10-18.11.27:612][862]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.10-18.11.27:617][862]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.10-18.11.27:637][862]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.10-18.11.27:638][862]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2024.06.10-18.11.27:638][862]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.06.10-18.11.27:640][862]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.06.10-18.11.27:647][862]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.06.10-18.11.27:787][863]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2024.06.10-18.12.00:085][433]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2024.06.10-18.12.00:092][433]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/N7/41SOZI4E60O68OECNL4D8E_Auto3
+[2024.06.10-18.12.00:092][433]LogSavePackage: Moving '../../../../../../GitHub Projects/MultiJam1Par3/MultiJam1Par3/Saved/41SOZI4E60O68OECNL4D8E_Auto3D69D08F1422814E6F430EB84FD1F81E3.tmp' to '../../../../../../GitHub Projects/MultiJam1Par3/MultiJam1Par3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/N7/41SOZI4E60O68OECNL4D8E_Auto3.uasset'
+[2024.06.10-18.12.00:193][433]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/DP/BGGKYA70PL3UVEUS3Z1PWO_Auto3
+[2024.06.10-18.12.00:193][433]LogSavePackage: Moving '../../../../../../GitHub Projects/MultiJam1Par3/MultiJam1Par3/Saved/BGGKYA70PL3UVEUS3Z1PWO_Auto319F091984A7E0A08561562ADC5426FA1.tmp' to '../../../../../../GitHub Projects/MultiJam1Par3/MultiJam1Par3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/DP/BGGKYA70PL3UVEUS3Z1PWO_Auto3.uasset'
+[2024.06.10-18.12.00:202][433]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/GC/KI5TPPHU53HODVAZBCMG0H_Auto3
+[2024.06.10-18.12.00:202][433]LogSavePackage: Moving '../../../../../../GitHub Projects/MultiJam1Par3/MultiJam1Par3/Saved/KI5TPPHU53HODVAZBCMG0H_Auto30E1F88B0426862E117DFBD8734F21D1B.tmp' to '../../../../../../GitHub Projects/MultiJam1Par3/MultiJam1Par3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/GC/KI5TPPHU53HODVAZBCMG0H_Auto3.uasset'
+[2024.06.10-18.12.00:208][433]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/0G/CW1AC56C7ETSH2V7SJ1W6T_Auto3
+[2024.06.10-18.12.00:208][433]LogSavePackage: Moving '../../../../../../GitHub Projects/MultiJam1Par3/MultiJam1Par3/Saved/CW1AC56C7ETSH2V7SJ1W6T_Auto341A9E50D44B5DE07778C84BCF5B6DF08.tmp' to '../../../../../../GitHub Projects/MultiJam1Par3/MultiJam1Par3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/0G/CW1AC56C7ETSH2V7SJ1W6T_Auto3.uasset'
+[2024.06.10-18.12.00:216][433]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/SJ/07OB0HB2ME8OQW4A8Y8M9K_Auto3
+[2024.06.10-18.12.00:216][433]LogSavePackage: Moving '../../../../../../GitHub Projects/MultiJam1Par3/MultiJam1Par3/Saved/07OB0HB2ME8OQW4A8Y8M9K_Auto3D1DD079F40C5DFB2352DBFB6CFEFD66C.tmp' to '../../../../../../GitHub Projects/MultiJam1Par3/MultiJam1Par3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/SJ/07OB0HB2ME8OQW4A8Y8M9K_Auto3.uasset'
+[2024.06.10-18.12.00:219][433]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.155
+[2024.06.10-18.12.00:219][433]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.155
+[2024.06.10-18.12.00:220][433]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Marco/BP_Enemy/BP_EnemyStatue_Movement] ([2] browsable assets)...
+[2024.06.10-18.12.00:253][433]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Marco/BP_Enemy/BP_EnemyStatue_Movement.BP_EnemyStatue_Movement]
+[2024.06.10-18.12.00:253][433]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Marco/BP_Enemy/BP_EnemyStatue_Movement]
+[2024.06.10-18.12.00:264][433]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Marco/BP_Enemy/BP_EnemyStatue_Movement_Auto3
+[2024.06.10-18.12.00:265][433]LogSavePackage: Moving '../../../../../../GitHub Projects/MultiJam1Par3/MultiJam1Par3/Saved/BP_EnemyStatue_Movement_Auto3B19A887447D65EFCD40053B8CD6754C2.tmp' to '../../../../../../GitHub Projects/MultiJam1Par3/MultiJam1Par3/Saved/Autosaves/Game/_Marco/BP_Enemy/BP_EnemyStatue_Movement_Auto3.uasset'
+[2024.06.10-18.12.00:268][433]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Marco/BP_Enemy/BP_EnemyStatue_Movement1Pablito] ([2] browsable assets)...
+[2024.06.10-18.12.00:268][433]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Marco/BP_Enemy/BP_EnemyStatue_Movement1Pablito]
+[2024.06.10-18.12.00:281][433]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Marco/BP_Enemy/BP_EnemyStatue_Movement1Pablito_Auto3
+[2024.06.10-18.12.00:281][433]LogSavePackage: Moving '../../../../../../GitHub Projects/MultiJam1Par3/MultiJam1Par3/Saved/BP_EnemyStatue_Movement1Pablito_C1D636E446E40D10DB3683ADF34EB859.tmp' to '../../../../../../GitHub Projects/MultiJam1Par3/MultiJam1Par3/Saved/Autosaves/Game/_Marco/BP_Enemy/BP_EnemyStatue_Movement1Pablito_Auto3.uasset'
+[2024.06.10-18.12.00:283][433]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MixamoAnimations/Enemy/BS_EnemyWalk] ([1] browsable assets)...
+[2024.06.10-18.12.00:294][433]OBJ SavePackage:     Rendered thumbnail for [BlendSpace1D /Game/MixamoAnimations/Enemy/BS_EnemyWalk.BS_EnemyWalk]
+[2024.06.10-18.12.00:294][433]OBJ SavePackage: Finished generating thumbnails for package [/Game/MixamoAnimations/Enemy/BS_EnemyWalk]
+[2024.06.10-18.12.00:301][433]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MixamoAnimations/Enemy/BS_EnemyWalk_Auto3
+[2024.06.10-18.12.00:301][433]LogSavePackage: Moving '../../../../../../GitHub Projects/MultiJam1Par3/MultiJam1Par3/Saved/BS_EnemyWalk_Auto35154F54F4F622197774ED79ACFABF4A2.tmp' to '../../../../../../GitHub Projects/MultiJam1Par3/MultiJam1Par3/Saved/Autosaves/Game/MixamoAnimations/Enemy/BS_EnemyWalk_Auto3.uasset'
+[2024.06.10-18.12.00:303][433]LogFileHelpers: Auto-saving content packages took 0.083
+[2024.06.10-18.13.23:161][924]Cmd: DELETE
+[2024.06.10-18.13.23:161][924]Cmd: ACTOR DELETE
+[2024.06.10-18.13.23:257][924]LogEditorActor: Deleted Actor: BP_EnemyStatue_Movement2_C
+[2024.06.10-18.13.23:278][924]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.06.10-18.13.23:281][924]LogEditorActor: Deleted 1 Actors (0.120 secs)
+[2024.06.10-18.13.34:096][567]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.10-18.13.34:196][567]LogSavePackage: Moving output files for package: /Game/_Marco/BP_Enemy/BP_EnemyStatue_Movement
+[2024.06.10-18.13.34:198][567]LogSavePackage: Moving '../../../../../../GitHub Projects/MultiJam1Par3/MultiJam1Par3/Saved/BP_EnemyStatue_MovementDD4BBEFE468CBA10C58E23B599B978A8.tmp' to '../../../../../../GitHub Projects/MultiJam1Par3/MultiJam1Par3/Content/_Marco/BP_Enemy/BP_EnemyStatue_Movement.uasset'
+[2024.06.10-18.13.34:209][567]LogFileHelpers: InternalPromptForCheckoutAndSave took 113 ms (total: 3.04 sec)
+[2024.06.10-18.13.34:210][567]AssetCheck: New page: Asset Save: BP_EnemyStatue_Movement
+[2024.06.10-18.13.34:210][567]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_Marco/BP_Enemy/BP_EnemyStatue_Movement.BP_EnemyStatue_Movement
+[2024.06.10-18.13.38:501][809]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.06.10-18.13.38:509][809]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.10-18.13.38:624][809]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.06.10-18.13.38:644][809]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.06.10-18.13.38:662][809]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.06.10-18.13.38:669][809]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/N7/41SOZI4E60O68OECNL4D8E
+[2024.06.10-18.13.38:670][809]LogSavePackage: Moving '../../../../../../GitHub Projects/MultiJam1Par3/MultiJam1Par3/Saved/41SOZI4E60O68OECNL4D8EF509D64742780DAF43265A84E541B193.tmp' to '../../../../../../GitHub Projects/MultiJam1Par3/MultiJam1Par3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/N7/41SOZI4E60O68OECNL4D8E.uasset'
+[2024.06.10-18.13.38:674][809]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/DP/BGGKYA70PL3UVEUS3Z1PWO
+[2024.06.10-18.13.38:675][809]LogSavePackage: Moving '../../../../../../GitHub Projects/MultiJam1Par3/MultiJam1Par3/Saved/BGGKYA70PL3UVEUS3Z1PWO85FBA06A4B90E1E7F3C541904F61DF39.tmp' to '../../../../../../GitHub Projects/MultiJam1Par3/MultiJam1Par3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/DP/BGGKYA70PL3UVEUS3Z1PWO.uasset'
+[2024.06.10-18.13.38:680][809]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/GC/KI5TPPHU53HODVAZBCMG0H
+[2024.06.10-18.13.38:681][809]LogSavePackage: Moving '../../../../../../GitHub Projects/MultiJam1Par3/MultiJam1Par3/Saved/KI5TPPHU53HODVAZBCMG0H2C35640C472C2CA7515C108E5336401D.tmp' to '../../../../../../GitHub Projects/MultiJam1Par3/MultiJam1Par3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/GC/KI5TPPHU53HODVAZBCMG0H.uasset'
+[2024.06.10-18.13.38:684][809]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/0G/CW1AC56C7ETSH2V7SJ1W6T
+[2024.06.10-18.13.38:685][809]LogSavePackage: Moving '../../../../../../GitHub Projects/MultiJam1Par3/MultiJam1Par3/Saved/CW1AC56C7ETSH2V7SJ1W6TEE4D5D084EFECE13006CD2A89F7BD57D.tmp' to '../../../../../../GitHub Projects/MultiJam1Par3/MultiJam1Par3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/0G/CW1AC56C7ETSH2V7SJ1W6T.uasset'
+[2024.06.10-18.13.38:714][809]LogSavePackage: Moving output files for package: /Game/_Marco/BP_Enemy/BP_EnemyStatue_Movement1Pablito
+[2024.06.10-18.13.38:715][809]LogSavePackage: Moving '../../../../../../GitHub Projects/MultiJam1Par3/MultiJam1Par3/Saved/BP_EnemyStatue_Movement1Pablito0B7CB4174DA265FB636A78AB98DC34E7.tmp' to '../../../../../../GitHub Projects/MultiJam1Par3/MultiJam1Par3/Content/_Marco/BP_Enemy/BP_EnemyStatue_Movement1Pablito.uasset'
+[2024.06.10-18.13.38:717][809]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MixamoAnimations/Enemy/BS_EnemyWalk" FILE="../../../../../../GitHub Projects/MultiJam1Par3/MultiJam1Par3/Content/MixamoAnimations/Enemy/BS_EnemyWalk.uasset" SILENT=true
+[2024.06.10-18.13.38:718][809]LogSavePackage: Moving output files for package: /Game/MixamoAnimations/Enemy/BS_EnemyWalk
+[2024.06.10-18.13.38:718][809]LogSavePackage: Moving '../../../../../../GitHub Projects/MultiJam1Par3/MultiJam1Par3/Saved/BS_EnemyWalk484656E04242B61C88A384B207FAEC28.tmp' to '../../../../../../GitHub Projects/MultiJam1Par3/MultiJam1Par3/Content/MixamoAnimations/Enemy/BS_EnemyWalk.uasset'
+[2024.06.10-18.13.38:738][809]LogFileHelpers: InternalPromptForCheckoutAndSave took 228 ms (total: 3.27 sec)
+[2024.06.10-18.13.38:748][809]AssetCheck: New page: Asset Save: multiple assets
+[2024.06.10-18.13.38:748][809]LogContentValidation: Display: Validating /Game/_Marco/BP_Enemy/BP_Enemy_Ciego.BP_Enemy_Ciego_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Enemy_Ciego_C_UAID_8C8CAAC5467DC7FD01_1105612352
+[2024.06.10-18.13.38:748][809]LogContentValidation: Display: Validating /Game/_Marco/BP_Enemy/BP_EnemyStatue_Movement.BP_EnemyStatue_Movement_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_EnemyStatue_Movement_C_UAID_8C8CAAC5467DC7FD01_1108317353
+[2024.06.10-18.13.38:748][809]LogContentValidation: Display: Validating /Game/_Marco/BP_Enemy/BP_EnemyStatue_Movement1.BP_EnemyStatue_Movement1_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_EnemyStatue_Movement1_C_UAID_8C8CAAC5467DC7FD01_1110617354
+[2024.06.10-18.13.38:748][809]LogContentValidation: Display: Validating /Game/_Marco/objeto/bateria.bateria_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.bateria_C_UAID_8C8CAAC5467DC4FD01_1208314824
+[2024.06.10-18.13.38:748][809]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_Marco/BP_Enemy/BP_EnemyStatue_Movement1Pablito.BP_EnemyStatue_Movement1Pablito
+[2024.06.10-18.13.38:748][809]LogContentValidation: Display: Validating /Script/Engine.BlendSpace1D /Game/MixamoAnimations/Enemy/BS_EnemyWalk.BS_EnemyWalk
+[2024.06.10-18.13.54:469][705]BlueprintLog: New page: Compile BP_ThirdPersonCharacter1MARCO
+[2024.06.10-18.13.54:538][705]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2024.06.10-18.13.54:542][705]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.13.54:542][705]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.13.54:542][705]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.13.54:542][705]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.13.54:542][705]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_1, they are designed to work with AAIControllers!
+[2024.06.10-18.13.54:544][705]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_1, they are designed to work with AAIControllers!
+[2024.06.10-18.13.54:611][705]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.13.54:612][705]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.13.54:612][705]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.13.54:612][705]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.13.54:612][705]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_1, they are designed to work with AAIControllers!
+[2024.06.10-18.13.54:612][705]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_1, they are designed to work with AAIControllers!
+[2024.06.10-18.13.55:186][724]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.10-18.13.55:319][724]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter1MARCO
+[2024.06.10-18.13.55:320][724]LogSavePackage: Moving '../../../../../../GitHub Projects/MultiJam1Par3/MultiJam1Par3/Saved/BP_ThirdPersonCharacter1MARCO77F093224EB5C14D03391F8339E61254.tmp' to '../../../../../../GitHub Projects/MultiJam1Par3/MultiJam1Par3/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter1MARCO.uasset'
+[2024.06.10-18.13.55:330][724]LogFileHelpers: InternalPromptForCheckoutAndSave took 144 ms (total: 3.41 sec)
+[2024.06.10-18.13.55:333][724]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter1MARCO
+[2024.06.10-18.13.55:333][724]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter1MARCO.BP_ThirdPersonCharacter1MARCO
+[2024.06.10-18.13.58:697][924]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2024.06.10-18.13.58:697][924]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.10-18.13.58:724][924]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2024.06.10-18.13.58:724][924]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.10-18.13.58:781][924]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2024.06.10-18.13.58:782][924]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.10-18.14.09:010][363]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace1D /Game/MixamoAnimations/Enemy/BS_EnemyWalk.BS_EnemyWalk
+[2024.06.10-18.14.09:012][363]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.10-18.14.09:012][363]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.10-18.14.09:025][363]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_49:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.06.10-18.14.09:306][363]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.10-18.14.09:306][363]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.10-18.14.09:491][363]LogViewport: Scene viewport resized to 1132x475, mode Windowed.
+[2024.06.10-18.14.09:517][363]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.06.10-18.15.13:428][537]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.10-18.15.16:413][537]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2024.06.10-18.15.16:426][537]LogContentBrowser: Deferred new asset file creation: NewAnimBlueprint
+[2024.06.10-18.15.16:432][537]LogShaderCompilers: Display: ================================================
+[2024.06.10-18.15.16:432][537]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.06.10-18.15.16:432][537]LogShaderCompilers: Display: Total job queries 406, among them cache hits 324 (79.80%)
+[2024.06.10-18.15.16:432][537]LogShaderCompilers: Display: Tracking 82 distinct input hashes that result in 39 distinct outputs (47.56%)
+[2024.06.10-18.15.16:432][537]LogShaderCompilers: Display: RAM used: 1,95 MiB of 1,60 GiB budget. Usage: 0.12%
+[2024.06.10-18.15.16:432][537]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.06.10-18.15.16:432][537]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.06.10-18.15.16:432][537]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.06.10-18.15.16:432][537]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.06.10-18.15.16:432][537]LogShaderCompilers: Display: ================================================
+[2024.06.10-18.15.16:443][537]LogContentBrowser: Creating deferred item: NewAnimBlueprint
+[2024.06.10-18.15.16:447][537]LogAutomationController: Ignoring very large delta of 3.36 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.06.10-18.15.16:489][538]LogContentBrowser: Renaming the item being created (Deferred Item: NewAnimBlueprint).
+[2024.06.10-18.15.21:301][825]LogContentBrowser: Attempting asset rename: NewAnimBlueprint -> ABP_EnemyAi
+[2024.06.10-18.15.21:315][825]LogContentBrowser: End creating deferred item NewAnimBlueprint
+[2024.06.10-18.15.21:317][825]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.10-18.15.22:735][907]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/MixamoAnimations/Enemy/ABP_EnemyAi.ABP_EnemyAi
+[2024.06.10-18.15.22:735][907]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.10-18.15.22:735][907]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.10-18.15.22:748][907]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.10-18.15.22:748][907]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.10-18.15.22:764][907]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.06.10-18.15.23:108][907]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.10-18.15.23:108][907]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.10-18.15.23:312][907]LogViewport: Scene viewport resized to 475x407, mode Windowed.
+[2024.06.10-18.15.23:351][907]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.06.10-18.15.27:294][ 45]LogViewport: Scene viewport resized to 128x128, mode Windowed.
+[2024.06.10-18.15.33:022][371]LogContentBrowser: Attempting asset rename: EnemyIdle_UE -> EnemyIdle_UE
+[2024.06.10-18.15.50:810][266]BlueprintLog: New page: Compile ABP_EnemyAi
+[2024.06.10-18.15.50:852][266]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2024.06.10-18.16.02:064][832]LogDerivedDataCache: C:/Users/aleja/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:02.245 and deleted 1536 files with total size 766 MiB and 1381 empty folders. Scanned 32512 files in 33544 folders with total size 3981 MiB.
+[2024.06.10-18.16.58:287][999]BlueprintLog: New page: Compile ABP_EnemyAi
+[2024.06.10-18.16.58:322][999]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.06.10-18.16.58:804][ 26]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.10-18.16.58:891][ 26]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MixamoAnimations/Enemy/ABP_EnemyAi" FILE="../../../../../../GitHub Projects/MultiJam1Par3/MultiJam1Par3/Content/MixamoAnimations/Enemy/ABP_EnemyAi.uasset" SILENT=true
+[2024.06.10-18.16.58:901][ 26]LogSavePackage: Moving output files for package: /Game/MixamoAnimations/Enemy/ABP_EnemyAi
+[2024.06.10-18.16.58:901][ 26]LogSavePackage: Moving '../../../../../../GitHub Projects/MultiJam1Par3/MultiJam1Par3/Saved/ABP_EnemyAiDA3D080341E611E1A039AAB299C029BA.tmp' to '../../../../../../GitHub Projects/MultiJam1Par3/MultiJam1Par3/Content/MixamoAnimations/Enemy/ABP_EnemyAi.uasset'
+[2024.06.10-18.16.58:930][ 26]LogFileHelpers: InternalPromptForCheckoutAndSave took 126 ms (total: 3.54 sec)
+[2024.06.10-18.16.58:932][ 26]AssetCheck: New page: Asset Save: ABP_EnemyAi
+[2024.06.10-18.16.58:932][ 26]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/MixamoAnimations/Enemy/ABP_EnemyAi.ABP_EnemyAi
+[2024.06.10-18.17.06:923][498]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.06:923][498]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.10:967][681]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'DefaultForeground'.'
+[2024.06.10-18.17.13:060][800]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.13:061][800]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.13:063][800]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_1, they are designed to work with AAIControllers!
+[2024.06.10-18.17.13:067][800]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.13:069][800]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.13:069][800]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.13:071][800]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.13:071][800]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_1, they are designed to work with AAIControllers!
+[2024.06.10-18.17.13:071][800]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_1, they are designed to work with AAIControllers!
+[2024.06.10-18.17.13:093][800]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.13:093][800]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.24:886][500]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.24:902][501]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.24:918][502]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.24:935][503]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.24:952][504]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.24:968][505]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.24:985][506]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.25:003][507]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.25:019][508]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.25:039][509]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.25:055][510]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.25:071][511]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.25:087][512]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.25:104][513]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.25:121][514]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.25:137][515]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.25:153][516]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.25:171][517]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.25:188][518]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.25:204][519]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.25:224][520]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.25:239][521]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.25:255][522]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.25:272][523]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.25:289][524]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.25:306][525]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.25:323][526]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.25:340][527]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.25:357][528]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.25:373][529]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.25:389][530]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.25:405][531]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.25:422][532]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.25:440][533]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.25:456][534]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.25:472][535]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.25:489][536]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.25:505][537]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.25:522][538]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.25:539][539]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.25:556][540]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.25:573][541]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.25:590][542]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.25:607][543]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.25:625][544]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.25:648][545]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.25:669][546]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.25:691][547]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.25:712][548]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.25:734][549]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.25:750][550]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.25:767][551]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.25:783][552]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.25:800][553]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.25:818][554]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.25:834][555]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.25:851][556]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.25:867][557]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.25:884][558]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.25:901][559]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.25:916][560]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.25:934][561]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.25:951][562]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.25:966][563]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.25:983][564]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.26:000][565]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.26:016][566]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.26:033][567]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.26:052][568]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.26:067][569]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.26:082][570]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.26:102][571]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.26:117][572]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.26:134][573]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.26:150][574]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.26:167][575]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.26:183][576]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.26:199][577]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.26:217][578]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.26:232][579]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.26:252][580]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.26:267][581]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.26:282][582]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.26:299][583]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.26:317][584]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.26:334][585]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.26:349][586]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.26:367][587]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.26:383][588]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.26:402][589]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.26:417][590]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.26:433][591]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.26:450][592]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.26:467][593]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.26:483][594]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.26:500][595]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.26:517][596]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.26:534][597]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.26:550][598]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.26:566][599]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.26:586][600]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.26:601][601]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.26:618][602]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.26:633][603]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.26:651][604]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.26:667][605]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.26:687][606]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.26:703][607]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.26:720][608]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.26:736][609]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.26:752][610]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.26:771][611]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.26:786][612]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.26:802][613]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.26:822][614]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.26:837][615]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.26:852][616]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.26:869][617]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.26:886][618]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.26:902][619]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.26:920][620]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.26:936][621]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.26:952][622]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.35:568][134]BlueprintLog: New page: Compile BP_Enemy_Ciego
+[2024.06.10-18.17.35:625][134]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.35:625][134]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.35:625][134]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_1, they are designed to work with AAIControllers!
+[2024.06.10-18.17.35:656][134]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2024.06.10-18.17.35:664][134]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.35:665][134]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.35:666][134]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.35:666][134]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.35:666][134]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_1, they are designed to work with AAIControllers!
+[2024.06.10-18.17.35:666][134]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_1, they are designed to work with AAIControllers!
+[2024.06.10-18.17.35:667][134]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_2, they are designed to work with AAIControllers!
+[2024.06.10-18.17.35:672][134]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.35:673][134]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.35:674][134]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.35:674][134]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.35:674][134]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_2, they are designed to work with AAIControllers!
+[2024.06.10-18.17.35:674][134]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_2, they are designed to work with AAIControllers!
+[2024.06.10-18.17.35:747][134]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.35:747][134]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.17.36:401][169]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.10-18.17.36:491][169]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Marco/BP_Enemy/BP_Enemy_Ciego" FILE="../../../../../../GitHub Projects/MultiJam1Par3/MultiJam1Par3/Content/_Marco/BP_Enemy/BP_Enemy_Ciego.uasset" SILENT=true
+[2024.06.10-18.17.36:502][169]LogSavePackage: Moving output files for package: /Game/_Marco/BP_Enemy/BP_Enemy_Ciego
+[2024.06.10-18.17.36:504][169]LogSavePackage: Moving '../../../../../../GitHub Projects/MultiJam1Par3/MultiJam1Par3/Saved/BP_Enemy_Ciego5BD2D32747005404CC3D5D841C1CCC4C.tmp' to '../../../../../../GitHub Projects/MultiJam1Par3/MultiJam1Par3/Content/_Marco/BP_Enemy/BP_Enemy_Ciego.uasset'
+[2024.06.10-18.17.36:514][169]LogFileHelpers: InternalPromptForCheckoutAndSave took 113 ms (total: 3.65 sec)
+[2024.06.10-18.17.36:517][169]AssetCheck: New page: Asset Save: BP_Enemy_Ciego
+[2024.06.10-18.17.36:517][169]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_Marco/BP_Enemy/BP_Enemy_Ciego.BP_Enemy_Ciego
+[2024.06.10-18.18.00:430][998]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.06.10-18.18.00:439][998]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.06.10-18.18.00:439][998]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.06.10-18.18.00:440][998]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 15 ms)
+[2024.06.10-18.18.00:441][998]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.06.10-18.18.00:441][998]LogPlayLevel: [PlayLevel] Compiling BP_EnemyStatue_Movement before play...
+[2024.06.10-18.18.00:482][998]LogPlayLevel: [PlayLevel] Compiling BP_EnemyStatue_Movement1Pablito before play...
+[2024.06.10-18.18.00:520][998]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.06.10-18.18.00:521][998]LogPlayLevel: PlayLevel: Blueprint regeneration took 80 ms (2 blueprints)
+[2024.06.10-18.18.00:521][998]PIE: New page: PIE session: ThirdPersonMap (10 jun. 2024 7:18:00)
+[2024.06.10-18.18.00:521][998]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.06.10-18.18.00:527][998]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005733s)
+[2024.06.10-18.18.00:527][998]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.005764s)
+[2024.06.10-18.18.00:544][998]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2024.06.10-18.18.00:546][998]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.10-18.18.00:546][998]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.10-18.18.00:546][998]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.06.10-18.18.00:547][998]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.06.10-18.18.00:547][998]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.06.10-18.18.00:547][998]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.06.10-18.18.00:547][998]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.06.10-18.18.00:548][998]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.06.10-18.18.00:548][998]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 424 ms)
+[2024.06.10-18.18.00:549][998]LogPlayLevel: PIE: World Init took: (0.002725s)
+[2024.06.10-18.18.00:549][998]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2024.06.10-18.18.00:549][998]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.10-18.18.00:549][998]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.10-18.18.00:549][998]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.10-18.18.00:549][998]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.10-18.18.00:549][998]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.06.10-18.18.00:549][998]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.10-18.18.00:549][998]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.06.10-18.18.00:549][998]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.10-18.18.00:549][998]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.10-18.18.00:549][998]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.10-18.18.00:549][998]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.10-18.18.00:551][998]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.06.10-18.18.00:570][998]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.06.10-18.18.00:570][998]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.10-18.18.00:570][998]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.10-18.18.00:571][998]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.10-18.18.00:572][998]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2024.06.10-18.18.00:572][998]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2024.06.10-18.18.00:574][998]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2024.06.10-18.18.00:574][998]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2024.06.10-18.18.00:574][998]LogInit: FAudioDevice initialized with ID 9.
+[2024.06.10-18.18.00:574][998]LogAudio: Display: Audio Device (ID: 9) registered with world 'ThirdPersonMap'.
+[2024.06.10-18.18.00:574][998]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2024.06.10-18.18.00:576][998]LogLoad: Game class is 'BP_ThirdPersonGameModMarco_C'
+[2024.06.10-18.18.00:579][998]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_UAID_8C8CAAC5467DC7FD01_1105612352, they are designed to work with AAIControllers!
+[2024.06.10-18.18.00:580][998]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.06.10-12.18.00
+[2024.06.10-18.18.00:580][998]LogWorld: Bringing up level for play took: 0.003163
+[2024.06.10-18.18.00:582][998]LogOnline: OSS: Created online subsystem instance for: :Context_64
+[2024.06.10-18.18.00:587][998]PIE: Server logged in
+[2024.06.10-18.18.00:588][998]PIE: Play in editor total start time 0,149 seconds.
+[2024.06.10-18.18.07:755][424]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.10-18.18.07:755][424]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.06.10-18.18.07:755][424]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.06.10-18.18.07:756][424]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.10-18.18.07:756][424]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.06.10-18.18.07:762][424]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.10-18.18.07:767][424]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.10-18.18.07:781][424]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.10-18.18.07:782][424]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2024.06.10-18.18.07:782][424]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.06.10-18.18.07:784][424]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.06.10-18.18.07:791][424]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.06.10-18.18.07:830][425]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2024.06.10-18.18.14:501][819]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.14:518][820]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.14:535][821]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.14:551][822]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.14:568][823]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.14:585][824]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.14:602][825]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.14:621][826]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.14:636][827]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.14:652][828]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.14:669][829]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.14:685][830]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.14:702][831]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.14:718][832]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.14:734][833]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.14:752][834]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.14:768][835]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.14:785][836]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.14:801][837]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.14:818][838]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.14:836][839]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.14:851][840]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.14:868][841]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.14:885][842]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.14:902][843]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.14:919][844]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.14:935][845]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.14:952][846]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.14:969][847]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.14:985][848]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.15:002][849]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.15:018][850]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.15:036][851]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.15:052][852]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.15:068][853]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.15:086][854]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.15:102][855]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.15:118][856]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.15:135][857]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.15:151][858]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.15:169][859]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.15:185][860]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.15:201][861]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.15:217][862]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.15:234][863]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.15:251][864]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.15:268][865]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.15:286][866]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.15:302][867]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.15:318][868]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.15:336][869]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.15:352][870]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.15:369][871]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.15:386][872]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.15:403][873]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.15:419][874]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.15:435][875]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.15:452][876]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.15:468][877]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.15:485][878]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.15:501][879]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.15:518][880]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.15:535][881]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.15:551][882]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.15:569][883]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.15:585][884]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.15:602][885]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.15:618][886]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.15:636][887]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.15:652][888]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.15:669][889]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.15:685][890]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.15:702][891]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.15:718][892]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.15:735][893]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.15:752][894]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.15:769][895]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.15:785][896]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.15:802][897]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.15:818][898]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.15:834][899]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.15:851][900]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.15:868][901]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.15:884][902]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.15:901][903]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.15:917][904]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.15:935][905]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.15:952][906]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.15:968][907]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.15:985][908]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.16:001][909]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.16:018][910]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.16:034][911]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.16:051][912]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.16:067][913]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.16:084][914]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.16:101][915]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.16:118][916]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.16:134][917]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.16:151][918]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.16:167][919]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.16:184][920]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.16:201][921]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.16:217][922]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.16:235][923]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.16:250][924]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.17:229][982]BlueprintLog: New page: Compile BP_Enemy_Ciego
+[2024.06.10-18.18.17:279][982]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.17:279][982]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.17:279][982]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_2, they are designed to work with AAIControllers!
+[2024.06.10-18.18.17:305][982]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.06.10-18.18.17:310][982]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.17:310][982]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.17:311][982]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.17:311][982]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.17:311][982]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_2, they are designed to work with AAIControllers!
+[2024.06.10-18.18.17:311][982]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_2, they are designed to work with AAIControllers!
+[2024.06.10-18.18.17:312][982]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_3, they are designed to work with AAIControllers!
+[2024.06.10-18.18.17:325][982]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.17:326][982]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.17:326][982]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.17:326][982]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.17:326][982]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_3, they are designed to work with AAIControllers!
+[2024.06.10-18.18.17:327][982]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_3, they are designed to work with AAIControllers!
+[2024.06.10-18.18.17:392][982]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.17:392][982]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_0, they are designed to work with AAIControllers!
+[2024.06.10-18.18.17:777][  2]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.10-18.18.17:861][  2]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Marco/BP_Enemy/BP_Enemy_Ciego" FILE="../../../../../../GitHub Projects/MultiJam1Par3/MultiJam1Par3/Content/_Marco/BP_Enemy/BP_Enemy_Ciego.uasset" SILENT=true
+[2024.06.10-18.18.17:872][  2]LogSavePackage: Moving output files for package: /Game/_Marco/BP_Enemy/BP_Enemy_Ciego
+[2024.06.10-18.18.17:874][  2]LogSavePackage: Moving '../../../../../../GitHub Projects/MultiJam1Par3/MultiJam1Par3/Saved/BP_Enemy_Ciego8B08AA384F7FC1922617548005439325.tmp' to '../../../../../../GitHub Projects/MultiJam1Par3/MultiJam1Par3/Content/_Marco/BP_Enemy/BP_Enemy_Ciego.uasset'
+[2024.06.10-18.18.17:884][  2]LogFileHelpers: InternalPromptForCheckoutAndSave took 106 ms (total: 3.76 sec)
+[2024.06.10-18.18.17:885][  2]AssetCheck: New page: Asset Save: BP_Enemy_Ciego
+[2024.06.10-18.18.17:885][  2]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_Marco/BP_Enemy/BP_Enemy_Ciego.BP_Enemy_Ciego
+[2024.06.10-18.18.19:160][ 78]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.06.10-18.18.19:169][ 78]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.06.10-18.18.19:169][ 78]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.06.10-18.18.19:171][ 78]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 17 ms)
+[2024.06.10-18.18.19:171][ 78]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.06.10-18.18.19:171][ 78]PIE: New page: PIE session: ThirdPersonMap (10 jun. 2024 7:18:19)
+[2024.06.10-18.18.19:194][ 78]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.06.10-18.18.19:199][ 78]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005339s)
+[2024.06.10-18.18.19:199][ 78]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.005377s)
+[2024.06.10-18.18.19:217][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2024.06.10-18.18.19:218][ 78]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.10-18.18.19:218][ 78]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.10-18.18.19:219][ 78]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.06.10-18.18.19:219][ 78]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.06.10-18.18.19:219][ 78]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.06.10-18.18.19:219][ 78]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.06.10-18.18.19:219][ 78]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.06.10-18.18.19:221][ 78]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.06.10-18.18.19:221][ 78]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 426 ms)
+[2024.06.10-18.18.19:221][ 78]LogPlayLevel: PIE: World Init took: (0.002314s)
+[2024.06.10-18.18.19:221][ 78]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2024.06.10-18.18.19:221][ 78]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.10-18.18.19:221][ 78]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.10-18.18.19:221][ 78]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.10-18.18.19:221][ 78]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.10-18.18.19:221][ 78]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.06.10-18.18.19:221][ 78]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.10-18.18.19:221][ 78]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.06.10-18.18.19:221][ 78]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.10-18.18.19:221][ 78]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.10-18.18.19:221][ 78]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.10-18.18.19:221][ 78]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.10-18.18.19:223][ 78]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.06.10-18.18.19:240][ 78]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.06.10-18.18.19:241][ 78]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.10-18.18.19:241][ 78]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.10-18.18.19:241][ 78]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.10-18.18.19:242][ 78]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2024.06.10-18.18.19:242][ 78]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2024.06.10-18.18.19:244][ 78]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2024.06.10-18.18.19:244][ 78]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2024.06.10-18.18.19:244][ 78]LogInit: FAudioDevice initialized with ID 10.
+[2024.06.10-18.18.19:244][ 78]LogAudio: Display: Audio Device (ID: 10) registered with world 'ThirdPersonMap'.
+[2024.06.10-18.18.19:244][ 78]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2024.06.10-18.18.19:247][ 78]LogLoad: Game class is 'BP_ThirdPersonGameModMarco_C'
+[2024.06.10-18.18.19:250][ 78]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_Enemy_Ciego_C_UAID_8C8CAAC5467DC7FD01_1105612352, they are designed to work with AAIControllers!
+[2024.06.10-18.18.19:250][ 78]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.06.10-12.18.19
+[2024.06.10-18.18.19:251][ 78]LogWorld: Bringing up level for play took: 0.003037
+[2024.06.10-18.18.19:253][ 78]LogOnline: OSS: Created online subsystem instance for: :Context_65
+[2024.06.10-18.18.19:257][ 78]PIE: Server logged in
+[2024.06.10-18.18.19:257][ 78]PIE: Play in editor total start time 0,088 seconds.
+[2024.06.10-18.18.35:515][ 48]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.10-18.18.35:515][ 48]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.06.10-18.18.35:515][ 48]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.06.10-18.18.35:516][ 48]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.10-18.18.35:516][ 48]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.06.10-18.18.35:521][ 48]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.10-18.18.35:526][ 48]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.10-18.18.35:541][ 48]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.10-18.18.35:542][ 48]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2024.06.10-18.18.35:542][ 48]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.06.10-18.18.35:544][ 48]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.06.10-18.18.35:547][ 48]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.10-18.18.35:550][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.06.10-18.18.35:589][ 49]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2024.06.10-18.22.24:497][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2024.06.10-18.22.24:502][ 97]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/N7/41SOZI4E60O68OECNL4D8E_Auto4
+[2024.06.10-18.22.24:502][ 97]LogSavePackage: Moving '../../../../../../GitHub Projects/MultiJam1Par3/MultiJam1Par3/Saved/41SOZI4E60O68OECNL4D8E_Auto40F3D4A524805B1CE71DE9D86E8914BA9.tmp' to '../../../../../../GitHub Projects/MultiJam1Par3/MultiJam1Par3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/N7/41SOZI4E60O68OECNL4D8E_Auto4.uasset'
+[2024.06.10-18.22.24:505][ 97]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.023
+[2024.06.10-18.22.24:505][ 97]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.023
