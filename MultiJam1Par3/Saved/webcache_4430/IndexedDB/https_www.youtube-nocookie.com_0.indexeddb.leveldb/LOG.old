@@ -1,6 +1,0 @@
-2024/05/30-18:55:05.323 2edc Creating DB D:/GitHub Projects/MultiJam1Par3/MultiJam1Par3/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
-2024/05/30-18:55:05.681 2edc Reusing MANIFEST D:/GitHub Projects/MultiJam1Par3/MultiJam1Par3/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/05/30-18:59:23.307 1d08 Level-0 table #5: started
-2024/05/30-18:59:23.402 1d08 Level-0 table #5: 1167 bytes OK
-2024/05/30-18:59:23.555 1d08 Delete type=0 #3
-2024/05/30-18:59:23.555 1d08 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
